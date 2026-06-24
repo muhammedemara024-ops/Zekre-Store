@@ -1,0 +1,1 @@
+// Theme toggle and navbar scroll now handled in common.js
